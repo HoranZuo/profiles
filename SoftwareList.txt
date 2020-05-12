@@ -1,0 +1,19 @@
+火绒
+360压缩
+NetSpeedMonitor
+迅雷
+notepad++
+potplayer
+CCleaner
+Everything
+WinSCP
+captura
+Remote Utilities - Viewer
+python
+Java
+maven
+git
+tomcat
+vscode
+Acrobat Reader DC
+office
